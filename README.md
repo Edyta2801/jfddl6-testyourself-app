@@ -6,7 +6,12 @@ Project prepared by a team of four during the infoshareacademy course. The appli
 ## See [DEMO](http://app.testyourself.jfddl6.is-academy.pl/)
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![](./src/images/screenshot_1_.png)
+![](./src/images/screenshot_2_.png)
+![](./src/images/screenshot_3_.png)
+![](./src/images/screenshot_4_.png)
+![](./src/images/screenshot_5_.png)
+![](./src/images/screenshot_6_.png)
 
 ## Technologies
 * React
