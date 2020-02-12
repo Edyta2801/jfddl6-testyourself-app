@@ -2,6 +2,9 @@
 
 Project prepared by a team of four during the infoshareacademy course. The application allows you to create and edit educational tests. It also has features such as adding to favorites, assignments and editing your test list, composing a test, adding questions. The home section contains statistics in charts.
 
+
+## See [DEMO](http://app.testyourself.jfddl6.is-academy.pl/)
+
 ## Screenshots
 ![Example screenshot](./img/screenshot.png)
 
