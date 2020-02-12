@@ -1,3 +1,25 @@
+# TestYourself App
+
+Project prepared by a team of four during the infoshareacademy course. The application allows you to create and edit educational tests. It also has features such as adding to favorites, assignments and editing your test list, composing a test, adding questions. The home section contains statistics in charts.
+
+## Screenshots
+![Example screenshot](./img/screenshot.png)
+
+## Technologies
+* React
+* Redux
+* Firebase-database
+* Material-ui
+
+## How to start !
+* log in: email: example@example.com
+          password:example
+* log in:by Google,
+* log in: register your email and password
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
